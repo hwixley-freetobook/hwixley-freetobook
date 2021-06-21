@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-## Languages & frameworks used:
+#### Languages & frameworks used:
 PHP, Laravel, JavaScript, Vue.js, MySQL
 
 <!--
